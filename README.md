@@ -1,4 +1,4 @@
-# youTube-api-clone-react
+# youTube-api-clone-react:
 
 A youTube api clone based on super fast react technology
 
